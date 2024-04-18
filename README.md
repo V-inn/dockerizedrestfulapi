@@ -1,6 +1,6 @@
 # This is a docker-ready RESTFul API Boilerplate for easy backend and database setup
 
-
+## Note: This software was built based on [MotoCode's tutorials on Youtube](https://www.youtube.com/@MotoCode)
 
 ## REQUIREMENTS
 
